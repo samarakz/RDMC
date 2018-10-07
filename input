@@ -1,0 +1,7 @@
+ 1 T T T T 0.5       ! ntot, soc, LD(S)A: F(T), CC, diag-occ, alpha
+ 6.0 0.9             ! U, J
+ 0 1 1               ! k p r  
+ 1 2 1 1 0           ! t,l,e,site,basis
+ 2 2 1 1 0           ! t,l,e,site,basis
+ 3 2 1 1 0           ! t,l,e,site,basis
+ 4 2 1 1 0           ! t,l,e,site,basis
